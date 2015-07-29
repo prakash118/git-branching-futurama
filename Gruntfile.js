@@ -2,19 +2,12 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
-        copy: {
-            options: {},
-            files: {
-                'public': ['src/index.html'],
-            },
-        },
-
         express: {
             all: {
                 options: {
                     port: 9000,
                     hostname: "0.0.0.0",
-                    bases: 'public', 
+                    bases: 'src', 
                     livereload: true
                 }
             }
@@ -36,12 +29,11 @@ module.exports = function(grunt) {
         }
     });
 
-    grunt.loadNpmTasks('grunt-copy');
     grunt.loadNpmTasks('grunt-express');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-open');
 
-    grunt.registerTask('server', [
+    grunt.registerTask('default', [
         'express',
         'open',
         'watch'
