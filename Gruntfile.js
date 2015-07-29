@@ -29,12 +29,12 @@ module.exports = function(grunt) {
 
 
 		watch: {
-			options: {
-				spawn: false,
-				livereload: true
-			},
 			html: {
-                files: '/src/*.html'
+                files: '/src/*.html',
+                options: {
+					spawn: false,
+					livereload: true
+				}
             }
 		}
 		
