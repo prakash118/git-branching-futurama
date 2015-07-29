@@ -2,6 +2,13 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
+        copy: {
+            options: {},
+            files: {
+                'public': ['src/index.html'],
+            },
+        },
+
         express: {
             all: {
                 options: {
@@ -29,6 +36,7 @@ module.exports = function(grunt) {
         }
     });
 
+    grunt.loadNpmTasks('grunt-copy');
     grunt.loadNpmTasks('grunt-express');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-open');
