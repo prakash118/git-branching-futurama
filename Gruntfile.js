@@ -32,7 +32,10 @@ module.exports = function(grunt) {
 			options: {
 				spawn: false,
 				livereload: true
-			}
+			},
+			html: {
+                files: '/src/*.html'
+            }
 		}
 		
 	});
