@@ -1,6 +1,6 @@
 # gitBranchWithFuturama
 
-<pre>
+<pre style="font-size:10px;text-align:center;">
                           ``.,;`                                                                    
                           #@###.                                                                    
                             +##.                                                                    
@@ -28,29 +28,13 @@
                                                                                                     
                                                                                                     
                                                                                                     
-                                                                                                    
-                                                                                                    
-. `` .  . `` .  . `  .  . .  .  ` .  . `` .  . `` .  . `` .  . `` .  . `  .  . .  .  . .  . `` .  . 
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-      `    .        `    `    `   `,`     ..`.. `....   ..`  `        `           `,`   `..`   `   `
- ,    ,    `    `  .     ,.   .  :   .      ,   :      `   . ,        `   ,   .  ;   ;  .   `  .  ` 
- `:  :,   : ,   ` `      :    . .           ,   :     :      ,         .  `:  , .     . .    ` . `  
- ` `. ,     `   ```      : .  . :  ```      ,   :...` .      :....     :   .    :     : .   :  . .  
- ` .  ,  :   .  .        :  : . :    .      ,   :     ,      ,           ,   .  ,     , .  :   .  ` 
- `    ,  `   .  `  .     :   ,.      .      ,   :     .      ,          .`  ,,   `   `  .   .  .  ` 
- `    , ,     ` `   :    :    .  `.`,`      ,   :....  ..`:  ,          ,   .     ,`,   ,    ` .   ,
-
 </pre>
 
 #Step 1:
 
 install git
 
-if git is already installed goto step 2[#Step 2:]. if not installed follow the instruction @ 
+if git is already installed goto step 2[Step 2:]. if not installed follow the instruction @ 
 
 #Step 2:
 
