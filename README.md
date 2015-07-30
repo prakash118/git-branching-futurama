@@ -12,32 +12,32 @@
 
 #Step 1:
 
-install git
+Install GIT
 
-if git is already installed goto step 2[Step 2:]. if not installed follow the instruction @ 
+If GIT is already installed goto Step 2. If not installed visit the link at https://git-scm.com/
 
 #Step 2:
 
-install node
+Install Node
 
-if already installed goto step 3. if not visit 
+If Node is already installed goto step 3. If not installed visit the link at https://nodejs.org/
 
 #Step 3;
 
-clone the repo then run “git pull --all” to fetch and merge all the branchs
+Clone the repo then run “git pull --all” to fetch and merge all the branchs.
 
 #Step 4;
 
-cd into the project and then run “npm install” to install all the node modules
+"cd" into the project and then run “npm install” to install all the node modules.
 
 #Step 5;
 
-run “npm install -g grunt-cli” to install grunt globally
+Run “npm install -g grunt-cli” to install grunt globally
 
 #Step 6;
 
-run “grunt”
+Run “grunt”
 
 #Step 7;
 
-in another tab, “git checkout bender”, “git checkout fry”, “git checkout leela” and “git checkout zoidberg”
+In another tab, “git checkout bender”, “git checkout fry”, “git checkout leela” and “git checkout zoidberg”
