@@ -31,6 +31,8 @@ In normal circumstance, I would use git branch feature to create new feature in 
 
 For the animation and automation purpose, the complexity have been added. Although you could still get the similar effect of git branch on web browser (refresh the browser every branch is changed <git checkout (branch name)>).
 
+[Click Here](https://vine.co/v/eXpvMX6HpeF) to checkout vine.
+
 ##Requirements:
 - Command line interface (Terminal)
 - GIT [more info](http://git-scm.com/)
