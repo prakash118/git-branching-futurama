@@ -1,16 +1,29 @@
 # gitBranchWithFuturama
 
+    -----------------------------------------------------------------
+
 	              __                                       
 	  ____  ____ |  |__ _____    ____   ________ __  ______
 	_/ ___\/  _ \|  |  \\__  \ _/ __ \ /  ___/  |  \/  ___/
 	\  \__(  <_> )   Y  \/ __ \\  ___/ \___ \|  |  /\___ \ 
 	 \___  >____/|___|  (____  /\___  >____  >____//____  >
 	     \/           \/     \/     \/     \/           \/ 
-	-------------------------------------------------------- 
-	-------------------------------------------------------- 
+    -----------------------------------------------------------------
 
 
-I have always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate the power of Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
+    -----------------------------------------------------------------
+
+    .___  .____                          ________.______________
+    |   | |    |    _______  __ ____    /  _____/|   \__    ___/
+    |   | |    |   /  _ \  \/ // __ \  /   \  ___|   | |    |   
+    |   | |    |__(  <_> )   /\  ___/  \    \_\  \   | |    |   
+    |___| |_______ \____/ \_/  \___  >  \______  /___| |____|   
+                  \/               \/          \/               
+    -----------------------------------------------------------------
+
+
+
+GIT has always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate the power of Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
 
 As a big fan of Futurama cartoon, I have used the characters from Futurama in this project. Every time the branch is changed, the content in the index.html file introduces each characters in the web browser.
 
