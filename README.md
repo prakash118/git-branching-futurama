@@ -23,7 +23,7 @@
 
 
 
-GIT has always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate the power of Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
+I has always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate the power of Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
 
 As a big fan of Futurama cartoon, I have used the characters from Futurama in this project. Every time the branch is changed, the content in the index.html file introduces each characters in the web browser.
 
