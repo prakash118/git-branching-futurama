@@ -29,57 +29,74 @@ After pulling or downloading the repository, follow the steps below;
 ##Method 1
 
 ###Step 1:
-####In Terminal:
+####In Terminal
 Change directory into the project directory. 
 
 ###Step 2:
-####In Terminal:
-Fetch all branchs <git pull –all>
+####In Terminal
+Fetch all branchs 
+> git pull –all
+
 Check to see if all the branchs are available <git branch> - by default the branch should be in master branch
 
 ###Step 3:
 Open index.html on web browser. The content should display the Futurama title.
 
 ###Step 4:
-####In Terminal:
+####In Terminal
 Open another Terminal tab.
-Change branch from master to bender <git checkout bender>
+Change branch from master to bender 
+>git checkout bender
+
 In Web browser:
 Reload the page to see Bender
 
 ##Method 2 – with Grunt
 
 ###Step 1:
-####In Terminal:
+####In Terminal
 Change directory into the project directory. 
 
 ###Step 2:
-####In Terminal:
-Fetch all branchs <git pull –all>
+####In Terminal
+Fetch all branchs 
+>git pull –all
+
 Check to see if all the branchs are available <git branch> - by default the branch should be in master branch
 
 ###Step 3:
-####In Terminal:
-Install all the node modules <npm install>
+####In Terminal
+Install all the node modules 
+>npm install
 
 ###Step 4:
-####In Terminal:
-Install grunt globally <npm install -g grunt-cli>
+####In Terminal
+Install grunt globally 
+>npm install -g grunt-cli
 
 ###Step 5:
-####In Terminal:
-Run grunt <grunt> - opens the fav web browser and displays the index.html contents (Futurama title)
+####In Terminal
+Run grunt - opens the fav web browser and displays the index.html contents (Futurama title) 
+>grunt
 
 ###Step 6:
-####In Terminal:
+####In Terminal
 Open another Terminal tab.
-Change branch from master to bender <git checkout bender> - reloads the contents to Bender
+Change branch from master to bender - reloads the contents to Bender
+>git checkout bender
 
 ##Currently available characters:
-Bender <git checkout bender>
-Fry <git checkout fry>
-Leela <git checkout leela>
-Zoidberg <git checkout zoidberg>
+* Bender 
+>git checkout bender
+
+* Fry 
+>git checkout fry
+
+* Leela 
+>git checkout leela
+
+* Zoidberg 
+>git checkout zoidberg
 
 ##Note:
 This project is intended for beginner GIT users. 
