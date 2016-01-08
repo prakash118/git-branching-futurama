@@ -45,20 +45,13 @@ After pulling or downloading the repository, follow the steps below;
 
 ####Step 1:
 #####In Terminal
-Change directory into the project directory. 
+Change directory into the project directory. To view all the branchs :
+>git branch -a 
 
 ####Step 2:
-#####In Terminal
-Fetch all branchs 
->git pull –all
-
-Check to see if all the branchs are available - by default the branch should be in master branch
->git branch
-
-####Step 3:
 Open index.html on web browser. The content should display the Futurama title.
 
-####Step 4:
+####Step 3:
 #####In Terminal
 Open another Terminal tab.
 Change branch from master to bender 
@@ -71,32 +64,25 @@ Reload the page to see Bender
 
 ####Step 1:
 #####In Terminal
-Change directory into the project directory. 
+Change directory into the project directory. To view all the branchs :
+>git branch -a 
 
 ####Step 2:
-#####In Terminal
-Fetch all branchs 
->git pull –all
-
-Check to see if all the branchs are available - by default the branch should be in master branch
->git branch
-
-####Step 3:
 #####In Terminal
 Install all the node modules 
 >npm install
 
-####Step 4:
+####Step 3:
 #####In Terminal
 Install grunt globally 
 >npm install -g grunt-cli
 
-####Step 5:
+####Step 4:
 #####In Terminal
 Run grunt - opens the fav web browser and displays the index.html contents (Futurama title) 
 >grunt
 
-####Step 6:
+####Step 5:
 #####In Terminal
 Open another Terminal tab.
 Change branch from master to bender - reloads the contents to Bender
