@@ -1,4 +1,4 @@
-# gitBranchWithFuturama
+# git Branching with Futurama
 
     -----------------------------------------------------------------
 
