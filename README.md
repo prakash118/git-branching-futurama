@@ -2,17 +2,6 @@
 
     -----------------------------------------------------------------
 
-	              __                                       
-	  ____  ____ |  |__ _____    ____   ________ __  ______
-	_/ ___\/  _ \|  |  \\__  \ _/ __ \ /  ___/  |  \/  ___/
-	\  \__(  <_> )   Y  \/ __ \\  ___/ \___ \|  |  /\___ \ 
-	 \___  >____/|___|  (____  /\___  >____  >____//____  >
-	     \/           \/     \/     \/     \/           \/ 
-    -----------------------------------------------------------------
-
-
-    -----------------------------------------------------------------
-
     .___  .____                          ________.______________
     |   | |    |    _______  __ ____    /  _____/|   \__    ___/
     |   | |    |   /  _ \  \/ // __ \  /   \  ___|   | |    |   
@@ -23,15 +12,14 @@
 
 
 
-I has always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate the power of Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
+I has always been fascinated by the GIT and especially the Branch feature. In this project, I want to demonstrate just one feature; Branch feature and convince you to start using GIT to manage your project. For more information on GIT [Click Here](http://git-scm.com/docs/git-branch).
 
-As a big fan of Futurama cartoon, I have used the characters from Futurama in this project. Every time the branch is changed, the content in the index.html file introduces each characters in the web browser.
+As a big fan of Futurama, Every Branch represent a character. Every time the branch is checkout, the browser reloads to display the character (content in the index.html).
 
 In normal circumstance, I would use git branch feature to create new feature in the project and merge the branch to the development branch after the feature is complete. Or for test (experimental) purpose.
 
 For the animation and automation purpose, the complexity have been added. Although you could still get the similar effect of git branch on web browser (refresh the browser every branch is changed <git checkout (branch name)>).
 
-[Click Here](https://vine.co/v/eXpvMX6HpeF) to checkout vine.
 
 ##Requirements:
 - Command line interface (Terminal)
@@ -90,16 +78,16 @@ Change branch from master to bender - reloads the contents to Bender
 
 ###Currently available characters:
 * Bender 
->git checkout bender
+    `git checkout bender`
 
 * Fry 
->git checkout fry
+    `git checkout fry`
 
 * Leela 
->git checkout leela
+    `git checkout leela`
 
 * Zoidberg 
->git checkout zoidberg
+    `git checkout zoidberg`
 
 ###Note:
 This project is intended for beginner GIT users. 
